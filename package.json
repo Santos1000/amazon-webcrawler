@@ -1,0 +1,17 @@
+{
+  "name": "amazon-webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "jest": "^27.5.1",
+    "needle": "^3.0.0"
+  }
+}
